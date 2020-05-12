@@ -1,0 +1,1 @@
+[pd.DataFrame(data=[[1, 5, 20, 0],[2, 7, 30, 0],[3, 21, 70, 1],[4, 30, 60, 1],[5, 30, 60, 2],[6, 30, 70, 2],], columns=['id', 'age', 'weight', 'label']),pd.DataFrame(data=[[5, 25, 65]], columns=['id', 'age', 'weight'])]
